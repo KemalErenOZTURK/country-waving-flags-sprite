@@ -23,8 +23,8 @@ How to use?
 Size?
 --------------------------------------
 
-- Sprite image: 250 KB kilobytes
-- CSS file: 12 kilobytes
+- Sprite image: 250 KB
+- CSS file: 12 KB
 
 
 List of country flags:
